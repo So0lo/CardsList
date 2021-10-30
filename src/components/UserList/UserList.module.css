@@ -1,0 +1,9 @@
+.UserList {
+    border-top: 1px solid #2d2d2d;
+    padding: 20px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}

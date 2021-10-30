@@ -1,0 +1,10 @@
+.User {
+    flex-basis: 300px;
+    margin: 15px;
+    box-shadow: 3px 3px 4px 0 rgba(0,0,0,0.3);
+    border: 1px solid rgba(0,0,0,0.2);
+    text-align: center;
+    padding: 15px;
+    font-size: 22px;
+    font-weight: 900;
+}

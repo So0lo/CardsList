@@ -1,0 +1,34 @@
+.SearchBar {
+    width: 80%;
+    margin: 30px auto;
+    box-shadow: 3px 3px 4px 2px rgba(0,0,0,0.2);
+    padding: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.SearchButton {
+    transition: all 0.2s ease;
+    cursor: pointer;
+    padding: 10px;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 6px;
+    border: none;
+    box-shadow: 2px 2px 4px 0 rgba(0,0,0,0.8);
+}
+
+.SearchButton:hover {
+    background: firebrick;
+}
+
+.SearchButton:active {
+    box-shadow: none;
+}
+
+.SearchInput {
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 10px;
+}
